@@ -1,3 +1,17 @@
+Borrowed from https://github.com/dmayo3/Bowling-Game-Kata
+Using this as an example of porting from Java to Scala, choosen because it has good test coverage and we can see if things go wrong during the port.
+
+## Setup
+ - git clone https://github.com/kalmanb/Bowling-Game-Kata.git
+ - cd Bowling-Game-Kata
+ - sbt
+ - #eclipse with-source=true
+ - #eclipse with-source=true
+ - start eclipse
+ - restart
+ - File -> Import -> Existing Projects Into Workspace ...
+ - Run the JUnit tests in eclipse
+
 # Bowling Game Kata in Java #
 
 This is my attempt at writing a simple bowling game using TDD. Bowling is a very often used example in TDD discussions and code katas, for example:
