@@ -6,7 +6,6 @@ Using this as an example of porting from Java to Scala, choosen because it has g
  - cd Bowling-Game-Kata
  - sbt
  - #eclipse with-source=true
- - #eclipse with-source=true
  - start eclipse
  - restart
  - File -> Import -> Existing Projects Into Workspace ...
